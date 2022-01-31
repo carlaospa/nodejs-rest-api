@@ -1,6 +1,6 @@
 # NodeJS API REST
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas <br />
 Node: v16.13.1
 Npm: v8.1.2
 body-parser: 1.19.1
